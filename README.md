@@ -18,5 +18,3 @@ Tasks Completed:
 Technologies Used:
 1. Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 2. Jupyter Notebook
-3. Data Visualization Tools
-4. About Forage & BCG Simulation
