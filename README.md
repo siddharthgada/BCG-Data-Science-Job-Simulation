@@ -4,6 +4,13 @@ This repository contains my completed work for the BCG Data Science Virtual Expe
 Project Overview
 Through this job simulation, I applied data science techniques to analyze business problems, generate insights, and provide data-driven recommendations.
 
+Key Learning Outcomes
+📌 Improved ability to clean and preprocess raw business data for meaningful analysis.<br>
+📌 Strengthened understanding of statistical analysis and machine learning techniques.<br>
+📌 Enhanced skills in using Python for data science tasks, including Pandas, NumPy, and Scikit-learn.<br>
+📌 Gained hands-on experience in visualizing data and presenting insights using Matplotlib and Seaborn.<br>
+📌 Developed problem-solving skills by applying data-driven methodologies to real-world consulting scenarios.<br>
+
 Tasks Completed:
 ## Task 1
 ✅ Use Python to analyze client data <br>
