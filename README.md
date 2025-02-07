@@ -12,14 +12,14 @@ Through this job simulation, I applied data science techniques to analyze busine
 5. Developed problem-solving skills by applying data-driven methodologies to real-world consulting scenarios.<br>
 
 ✅ Tasks Completed:
-### Task 1
+1. Task 1
   - Use Python to analyze client data <br>
   - Create data visualizations to help you interpret key trends
-### Task 2
+2. Task 2
   - Use Python to build a new feature for your analysis
-### Task 3
+3. Task 3
   - Build a predictive model for churn using a random forest technique
-### Task 4
+4. Task 4
   - Write an executive summary with your findings
 
 📊 Technologies Used:
