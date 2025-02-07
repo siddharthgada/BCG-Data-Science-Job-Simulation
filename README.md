@@ -11,16 +11,16 @@ Through this job simulation, I applied data science techniques to analyze busine
 4. Gained hands-on experience in visualizing data and presenting insights using Matplotlib and Seaborn.<br>
 5. Developed problem-solving skills by applying data-driven methodologies to real-world consulting scenarios.<br>
 
-Tasks Completed:
+✅ Tasks Completed:
 ### Task 1
-✅ Use Python to analyze client data <br>
-✅ Create data visualizations to help you interpret key trends
+  - Use Python to analyze client data <br>
+  - Create data visualizations to help you interpret key trends
 ### Task 2
-✅ Use Python to build a new feature for your analysis
+  - Use Python to build a new feature for your analysis
 ### Task 3
-✅ Build a predictive model for churn using a random forest technique
+  - Build a predictive model for churn using a random forest technique
 ### Task 4
-✅ Write an executive summary with your findings
+  - Write an executive summary with your findings
 
 📊 Technologies Used:
 1. Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
