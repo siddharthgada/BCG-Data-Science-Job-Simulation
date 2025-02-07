@@ -12,7 +12,7 @@ Through this job simulation, I applied data science techniques to analyze busine
 5. Developed problem-solving skills by applying data-driven methodologies to real-world consulting scenarios.<br>
 
 ✅ Tasks Completed:
-1. Task 1
+-- Task 1
   - Use Python to analyze client data <br>
   - Create data visualizations to help you interpret key trends
 2. Task 2
