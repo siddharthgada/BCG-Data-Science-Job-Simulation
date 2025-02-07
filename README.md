@@ -6,7 +6,7 @@ Through this job simulation, I applied data science techniques to analyze busine
 
 Tasks Completed:
 ## Task 1
-✅ Use Python to analyze client data /n
+✅ Use Python to analyze client data <br>
 ✅ Create data visualizations to help you interpret key trends
 ## Task 2
 ✅ Use Python to build a new feature for your analysis
