@@ -16,10 +16,13 @@ Through this job simulation, I applied data science techniques to analyze busine
 ✅ Task 1:<br>
   - Use Python to analyze client data <br>
   - Create data visualizations to help you interpret key trends<br>
+  
 ✅ Task 2:<br>
   - Use Python to build a new feature for your analysis<br>
+  
 ✅ Task 3:<br>
   - Build a predictive model for churn using a random forest technique<br>
+  
 ✅ Task 4:<br>
   - Write an executive summary with your findings
 
