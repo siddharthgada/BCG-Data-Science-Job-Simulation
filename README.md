@@ -13,7 +13,7 @@ Tasks Completed:
 ## Task 3
 ✅ Build a predictive model for churn using a random forest technique
 ## Task 4
-✅ Write an executive summary with your findings using a PowerPoint Slide
+✅ Write an executive summary with your findings
 
 Technologies Used:
 1. Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
