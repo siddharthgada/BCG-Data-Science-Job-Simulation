@@ -37,4 +37,4 @@ The project involved analyzing business data to uncover trends, make predictions
 
 **Siddharth Gada**  
 📧 Email: gadasiddharth@gmail.com <br>
-🔗 [LinkedIn] (https://www.linkedin.com/in/siddharthgada/)
+🔗 LinkedIn: https://www.linkedin.com/in/siddharthgada/
