@@ -32,3 +32,9 @@ Through this job simulation, I applied data science techniques to analyze busine
 
 📌 Project Summary
 The project involved analyzing business data to uncover trends, make predictions, and support strategic decision-making using machine learning and data visualization techniques. The key focus areas included data preprocessing, exploratory data analysis, model building, and business insights.
+
+  ## 👤 Author
+
+**Siddharth Gada**  
+📧 Email: gadasiddharth@gmail.com 
+🔗 LinkedIn: [[your-link]  ](https://www.linkedin.com/in/siddharthgada/)
